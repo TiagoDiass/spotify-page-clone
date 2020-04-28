@@ -1,7 +1,8 @@
 # Spotify Page Clone :musical_note:
-Esse projeto se trata de uma página web baseada na página do Spotify de 2016 até 2018, no desenvolvimento dela utilizei somente HTML e Bootstrap 4
+Esse projeto se trata de uma página web responsiva baseada na página do Spotify de 2016 até 2018, no desenvolvimento dela utilizei somente HTML e Bootstrap 4
 
-<hr>
+## Objetivo do projeto :dart:
+Meu objetivo ao desenvolver essa página foi principalmente praticar Bootstrap 4
 
 ## Resultado final :clipboard:
 
